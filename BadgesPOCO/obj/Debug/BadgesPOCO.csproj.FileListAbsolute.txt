@@ -1,0 +1,6 @@
+C:\Users\Colin\source\repos\GoldBadgeCAC\BadgesPOCO\bin\Debug\BadgesPOCO.dll
+C:\Users\Colin\source\repos\GoldBadgeCAC\BadgesPOCO\bin\Debug\BadgesPOCO.pdb
+C:\Users\Colin\source\repos\GoldBadgeCAC\BadgesPOCO\obj\Debug\BadgesPOCO.csproj.AssemblyReference.cache
+C:\Users\Colin\source\repos\GoldBadgeCAC\BadgesPOCO\obj\Debug\BadgesPOCO.csproj.CoreCompileInputs.cache
+C:\Users\Colin\source\repos\GoldBadgeCAC\BadgesPOCO\obj\Debug\BadgesPOCO.dll
+C:\Users\Colin\source\repos\GoldBadgeCAC\BadgesPOCO\obj\Debug\BadgesPOCO.pdb

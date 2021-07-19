@@ -1,0 +1,2 @@
+C:\Users\Colin\source\repos\GoldBadgeCAC\UnitTestBadgesMethods\obj\Debug\UnitTestBadgesMethods.csproj.AssemblyReference.cache
+C:\Users\Colin\source\repos\GoldBadgeCAC\UnitTestBadgesMethods\obj\Debug\UnitTestBadgesMethods.csproj.CoreCompileInputs.cache
